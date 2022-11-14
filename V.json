@@ -1524,7 +1524,15 @@
       "quickSearch": 0,
       "filterable": 0
     }
-  ],
+	  {
+     "key": "ASMR",
+     "name": "👄ASMR19",
+     "type": 1,
+     "api": "http://www.asmr19.in/api.php/provide/vod/",
+     "searchable": 0,
+     "quickSearch": 0
+        }
+    ],
   "lives": [
     {
       "group": "redirect",
