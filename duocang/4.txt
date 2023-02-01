@@ -1,0 +1,53 @@
+{
+    "urls": [
+           {
+            "url":"https://nobug.eu.org/duo/v.json",
+            "name": "应用多多最新"
+        },
+          {
+            "url":"https://raw.iqiq.io/crazyluffys/jiekou/master/luffy.json
+",
+            "name": "家庭版自用"
+         },
+          {
+            "url":"https://yydsys.top/duo/v.json",
+            "name": "待添加"
+        },
+          {
+            "url":"https://yydsys.top/duo/v.json",
+            "name": "待添加"
+        }, 
+          {
+            "url":"https://yydsys.top/duo/v.json",
+            "name": "待添加"
+        }, 
+          {
+            "url":"https://yydsys.top/duo/v.json",
+            "name": "待添加"
+        }, 
+          {
+            "url":"https://yydsys.top/duo/v.json",
+            "name": "待添加"
+        },
+          {
+            "url":"https://yydsys.top/duo/v.json",
+            "name": "待添加"
+        },
+          {
+            "url":"https://yydsys.top/duo/v.json",
+            "name": "待添加"
+        },
+          {
+            "url":"https://yydsys.top/duo/v.json",
+            "name": "待添加"
+        },
+          {
+            "url":"https://yydsys.top/duo/v.json",
+            "name": "待添加"
+        },
+          {
+            "url":"https://nobug.eu.org/duo/m.json",
+            "name": "待添加"
+        }
+      ]  
+}
